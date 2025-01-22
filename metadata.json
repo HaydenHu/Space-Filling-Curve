@@ -1,0 +1,35 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Space-Filling_Curve",
+    "description": "Generate space-filled curves, square, circle, and rectangular outer contours.",
+    "description_full": "Hilbert, Moore, and Peano curves, and generate their circular and rectangular curves.",
+    "identifier": "com.github.HaydenHu.Space-Filling_Curve",
+    "type": "plugin",
+    "author": {
+        "name": "Hayden Hu",
+        "contact": {
+            "web": "https://github.com/HaydenHu/Space-Filling_Curve"
+        }
+    },
+    "maintainer": {
+        "name": "Hayden Hu",
+        "contact": {
+            "web": "https://github.com/HaydenHu/Space-Filling_Curve"
+        }
+    },
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://github.com/HaydenHu/Space-Filling_Curve"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "8.0",
+            "download_sha256": "5269c8311f5e9357208bbbc3a1d21e7ad934a90dc292d4744e51c22b7591356f",
+            "download_size": 76,
+            "download_url": "https://github.com/HaydenHu/Space-Filling_Curve/releases/download/1.0/Space-Filling_Curve.zip",
+            "install_size": 100
+        }
+    ]
+}
